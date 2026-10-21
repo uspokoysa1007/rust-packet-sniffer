@@ -1,0 +1,5 @@
+/target/
+*.pdb
+releases/*.exe
+!releases/
+!releases/source_code.zip
